@@ -248,22 +248,25 @@ Execute the programs and publish them.
 
 ## OUTPUT
 ### MAP :
-![image](https://github.com/user-attachments/assets/19db8369-55e0-41d0-bef7-d352fd7fcad2)
+![image](https://github.com/user-attachments/assets/b9a8c811-7b13-4c46-bda3-ad02ce6bd005)
 
 ### My house output:
-![image](https://github.com/user-attachments/assets/90eb5557-92f7-450c-a2a0-97bef6edfec1)
+![image](https://github.com/user-attachments/assets/1498b55e-a38d-49eb-bb96-f6ed2fc51d39)
 
 ### Mall output:
 
-![image](https://github.com/user-attachments/assets/4f9e5306-2c21-4838-a248-efa130fbb78d)
+![image](https://github.com/user-attachments/assets/db8e6dad-cd45-4cae-8236-6c86255487e9)
 
 ### sea side output:
-![image](https://github.com/user-attachments/assets/c5c63cc6-87f9-436a-8ec5-86c4c6bddc93)
+![image](https://github.com/user-attachments/assets/3b7c22aa-0b1c-4ca5-92e5-19a87a330ac5)
+
 ### park output:
-![image](https://github.com/user-attachments/assets/373897fb-3ab5-4498-9392-aa6751ff16b5)
+![image](https://github.com/user-attachments/assets/e022ffa5-4615-4d6d-bfe3-4b758ebdb999)
+
 
 ### Temple output:
-![image](https://github.com/user-attachments/assets/2d14821d-9f5a-47fa-a80b-7f592f97c243)
+![image](https://github.com/user-attachments/assets/1e12359e-9987-40fd-aa7a-3f4e71ed484e)
+
 
 
 
