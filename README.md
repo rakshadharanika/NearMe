@@ -247,6 +247,9 @@ Execute the programs and publish them.
 
 
 ## OUTPUT
+### MAP :
+![image](https://github.com/user-attachments/assets/19db8369-55e0-41d0-bef7-d352fd7fcad2)
+
 ### My house output:
 ![image](https://github.com/user-attachments/assets/90eb5557-92f7-450c-a2a0-97bef6edfec1)
 
